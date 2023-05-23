@@ -1,7 +1,5 @@
 # COVID-19 Data Analysis: A Deep Dive into High Case and Mortality States in the US
 
-\includegraphics[]{/Users/pranjalsrivastava/Desktop/Projects/Data-Projects/coronavirus-4817450_1920.jpeg}
-
 
 
 ## Overview
