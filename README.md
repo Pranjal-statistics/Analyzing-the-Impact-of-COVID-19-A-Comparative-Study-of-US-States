@@ -1,5 +1,9 @@
 # COVID-19 Data Analysis: A Deep Dive into High Case and Mortality States in the US
 
+\includegraphics[]{/Users/pranjalsrivastava/Desktop/Projects/Data-Projects/coronavirus-4817450_1920.jpeg}
+
+
+
 ## Overview
 
 This project conducts a comprehensive analysis of the COVID-19 situation across various states in the US, focusing particularly on those states with the highest numbers of cases and deaths. The aim is to uncover trends and patterns that might inform public health responses and strategies.
