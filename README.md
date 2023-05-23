@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This project conducts a comprehensive analysis of the COVID-19 situation across various states in the US, focusing particularly on those states with the highest numbers of cases and deaths. The aim is to uncover trends and patterns that might inform public health responses and strategies.
+This project conducts a comprehensive analysis of the COVID-19 situation across various states in the US, focusing particularly on those states with the highest numbers of cases and deaths. The aim is to uncover trends and patterns that might inform public health responses and strategies.
 
 ## Dataset
 
