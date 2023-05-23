@@ -1,6 +1,6 @@
 ---
-title: "Final_Project"
-author: 'PRANJAL SRIVASTAVA(Net ID: ps4379)'
+title: "COVID-19 Data Analysis: A Deep Dive into High Case and Mortality States in the US"
+author: 'PRANJAL SRIVASTAVA'
 date: "1/22/2022"
 output: pdf_document
 ---
@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # [***Synopsis***]{.ul}
-![](/Users/pranjalsrivastava/Desktop/Intermediate_R/Final_Project/coronavirus-4817450_1920.jpeg)
+![](/Users/pranjalsrivastava/Desktop/Projects/Covid_19/coronavirus-4817450_1920.jpeg)
 
 ### Coronavirus (COVID-19) is a highly contagious disease caused by the SARS-CoV-2 virus. The virus can be spread from an infected person's mouth or nose through small fluid particles when the person coughs, sneezes, talks, sings or breathes (1). Most people infected with the virus will experience mild to moderate respiratory illness and recover without requiring special treatment. However, some will become seriously ill and require medical attention. .
 
@@ -67,7 +67,7 @@ library(usmap)        ## To plot US State maps
 
 ### First I set the working directory as I have downloaded the 'US_counties.csv' data already in my folder from Brightspace(University's academic platform)
 ```{r}
-setwd("/Users/pranjalsrivastava/Desktop/Intermediate_R/Final_Project")
+setwd("/Users/pranjalsrivastava/Desktop/Projects/Covid_19")
 ```
 
 ### After setting the working directory, we can load the data in 'csv' file.
